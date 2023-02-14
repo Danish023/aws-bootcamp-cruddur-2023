@@ -1,0 +1,4 @@
+aws sns subscribe \
+    --topic-arn="arn:aws:sns:ap-south-1:249534544119:bootcamp-alarm-topic" \
+    --protocol email \
+    --notification-endpoint="danishdyp@gmail.com"
