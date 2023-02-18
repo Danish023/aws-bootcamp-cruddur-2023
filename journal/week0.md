@@ -19,15 +19,26 @@
 
 ## 6. Created an Admin User for the boot camp (IAM user from my existing AWS root account)
 
-Use CloudShell
+## 7. Used the AWS CloudShell
 
-Generate AWS Credentials
+## 8. Generated AWS Credentials for Admin User account/set MFA
 
-Installed AWS CLI
+## 9. Installed AWS CLI in Gitpod
 
-Create a Billing Alarm
+  Link: https://github.com/Danish023/aws-bootcamp-cruddur-2023/blob/main/.gitpod.yml
+  
+  ![image](https://user-images.githubusercontent.com/26427104/219877450-47448006-0761-4e7d-b93a-0f9f1035b966.png)
 
-Create a Budget
+
+## 10. Created a Billing Alarm, SNS topic and subscribed myself to the topic to receive alerts on spending in my AWS boot camp account. This action was performed using the CLI in Gitpod
+
+  Link for alarm configuration: https://github.com/Danish023/aws-bootcamp-cruddur-2023/blob/main/aws/json/alarm-config.json
+  
+  Link for notification: https://github.com/Danish023/aws-bootcamp-cruddur-2023/blob/main/aws/json/notifications-with-subscribers.json
+
+## 11. Created a Budget for the boot camp using the CLI in Gitpod
+  
+  Link: https://github.com/Danish023/aws-bootcamp-cruddur-2023/blob/main/aws/json/budget.json
 
 
 
