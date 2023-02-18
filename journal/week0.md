@@ -47,7 +47,16 @@
 
 
 
+# Week 0 — Billing and Architecture: Additional task(s)
 
+## 1. Wrote 3 LinkedIn posts on the boot camp and week 0 tasks and architecture
+
+  Post 1: https://www.linkedin.com/posts/ansaridanish_cloud-technology-awscertified-activity-7030775060034465792-kELn?utm_source=share&utm_medium=member_desktop
+  
+  Post 2: https://www.linkedin.com/posts/ansaridanish_github-danish023aws-bootcamp-cruddur-2023-activity-7031129304038027264-Zk9U?utm_source=share&utm_medium=member_desktop
+  
+  Post 3: https://www.linkedin.com/posts/ansaridanish_architecture-design-userexperience-activity-7031862054793719808-3LIG?utm_source=share&utm_medium=member_desktop
+  
 
 
 
