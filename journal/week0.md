@@ -35,10 +35,16 @@
   Link for alarm configuration: https://github.com/Danish023/aws-bootcamp-cruddur-2023/blob/main/aws/json/alarm-config.json
   
   Link for notification: https://github.com/Danish023/aws-bootcamp-cruddur-2023/blob/main/aws/json/notifications-with-subscribers.json
+  
+  ![image](https://user-images.githubusercontent.com/26427104/219878154-001709af-ac27-45fa-b9bf-4ca4f3bfc29c.png)
+
 
 ## 11. Created a Budget for the boot camp using the CLI in Gitpod
   
   Link: https://github.com/Danish023/aws-bootcamp-cruddur-2023/blob/main/aws/json/budget.json
+  
+  ![image](https://user-images.githubusercontent.com/26427104/219877983-ed4a1c3c-19bf-4a71-929f-f49c9d6fe010.png)
+
 
 
 
